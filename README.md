@@ -8,7 +8,7 @@ I'm Charo Nuguid, and I'm an independent Technology Consultant and Trainer.
 
 I use a rather old 2011 NEO B5700 laptop. It's has an Intel i7 (Sandy Bridge) processor with 4GB RAM. I use a standing desk setup making use of laptop risers similar to the one below:
 
-![A laptop riser similar to what I use.](https://s-media-cache-ak0.pinimg.com/736x/3d/fd/b7/3dfdb7f4f71e92616c69e0fa71322108.jpg)
+![A laptop riser similar to what I use.](use/images/riser.png)
 
 I also own a Raspberry Pi 2 which I use as my mobile workstation, powered by a powerbank. I use my Xiaomi Mi3 phone as a hotspot for the RPi and Nexus 7 (1/gen) tablet. Then using the tablet I virturally connect to the RPi and start working. I'll post details of the setup on my blog soon.
 
