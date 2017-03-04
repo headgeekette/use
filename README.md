@@ -38,4 +38,4 @@ My dream setup changes every year. For now, I'd like to upgrade my laptop. Like 
 
 ## Others
 
-2017-03-0 : I'm studying BioInformatics and Computational Neurscience on Coursera to see which of the two I'd like to pursue as a masters (leading to PhD) in the next two years.
+2017-03-04 : I'm studying BioInformatics and Computational Neurscience on Coursera to see which of the two I'd like to pursue as a masters (leading to PhD) in the next two years.
