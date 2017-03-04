@@ -4,6 +4,8 @@
 
 I'm Charo Nuguid, and I'm an independent Technology Consultant and Trainer.
 
+I have a blog called [The Geekette Speaketh](http://thegeekettespeaketh.com).
+
 ## Hardware
 
 I use a rather old 2011 NEO B5700 laptop. It's has an Intel i7 (Sandy Bridge) processor with 4GB RAM. I use a standing desk setup making use of laptop risers similar to the one below:
