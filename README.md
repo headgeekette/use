@@ -6,6 +6,8 @@ I'm Charo Nuguid, and I'm an independent Technology Consultant and Trainer.
 
 I have a blog called [The Geekette Speaketh](http://thegeekettespeaketh.com).
 
+I'm also on <a rel="me" href="https://hachyderm.io/@headgeekette">Mastadon</a>.
+
 ## Hardware
 
 I use two laptops named Elli and Minerva.
